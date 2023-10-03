@@ -1,0 +1,22 @@
+[
+    {
+        "tittle": "Taza grande",
+        "price": 2600,
+        "description": "Taza de ceramica de 500 ml"
+    },
+
+    {
+
+        "tittle": "Taza chica",
+        "price": 2300,
+        "description": "Taza de ceramica de 250 ml"
+    },
+
+    {
+
+        "tittle": "Infusor",
+        "price": 1500,
+        "description": "Infusor fabricado en aluminio para colocar las hebras de te"
+    }
+
+]
